@@ -1,0 +1,436 @@
+('D:\\JiaNing\\My Projects\\Python File\\Morse Code '
+ 'Translator\\build\\main\\PYZ-00.pyz',
+ [('__future__',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_colorize',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('contextlib',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\csv.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('getopt',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('importlib',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('numbers',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pickle',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\socket.py',
+   'PYMODULE'),
+  ('statistics',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('token',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python 3.13.3\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('zipfile',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'D:\\JiaNing\\JiaNing Program\\Program File\\Python '
+   '3.13.3\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE')])
